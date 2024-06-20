@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jovens na Agroindústria</title>
+    <style>
+        /* Estilos CSS podem ser adicionados aqui */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+        }
+        .main {
+            background-color: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #333;
+            color: #fff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jovens na Agroindústria</h1>
+    </header>
+    <div class="container">
+        <section class="main">
+            <h2>Sobre o Projeto</h2>
+            <p>Descrição do site e sua missão em promover a participação dos jovens na agroindústria.</p>
+        </section>
+        <section>
+            <h2>Notícias e Artigos</h2>
+            <article>
+                <h3>Título da Notícia ou Artigo</h3>
+                <p>Conteúdo da notícia ou artigo.</p>
+            </article>
+            <!-- Repetir o bloco 'article' para mais notícias ou artigos -->
+        </section>
+        <aside>
+            <h2>Recursos</h2>
+            <ul>
+                <li><a href="#">Link para recurso 1</a></li>
+                <li><a href="#">Link para recurso 2</a></li>
+                <!-- Adicionar mais links conforme necessário -->
+            </ul>
+        </aside>
+    </div>
+    <footer>
+        <p>&copy; 2024 Jovens na Agroindústria. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
