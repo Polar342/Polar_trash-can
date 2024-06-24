@@ -4,41 +4,40 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jovens na Agroindústria</title>
-    <style>
-        /* Estilos CSS podem ser adicionados aqui */
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f0f0f0;
-        }
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 10px 0;
-            text-align: center;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-            padding: 20px;
-        }
-        .main {
-            background-color: #fff;
-            padding: 20px;
-            margin-bottom: 20px;
-        }
-        footer {
-            text-align: center;
-            padding: 10px 0;
-            background-color: #333;
-            color: #fff;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
+    <style>      
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 0;
+        padding: 0;
+        background-color: #f0f0f0;
+    }
+    header {
+        background-color: #333;
+        color: #fff;
+        padding: 10px 0;
+        text-align: center;
+    }
+    .container {
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+        padding: 20px;
+    }
+    .main {
+        background-color: #fff;
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+    footer {
+        text-align: center;
+        padding: 5px 0;
+        background-color: #333;
+        color: #fff;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
     </style>
 </head>
 <body>
@@ -47,28 +46,31 @@
     </header>
     <div class="container">
         <section class="main">
-            <h2>Sobre o Projeto</h2>
-            <p>Descrição do site e sua missão em promover a participação dos jovens na agroindústria.</p>
+            <h2>Projeto Agrinho de Programação</h2>
+            <p>Esse site tem o objetivo de apresentar a importancia da tecnologia na agroindustria.</p>
         </section>
         <section>
-            <h2>Notícias e Artigos</h2>
+            <h2>Argumentos</h2>
             <article>
-                <h3>Título da Notícia ou Artigo</h3>
-                <p>Conteúdo da notícia ou artigo.</p>
+                <h3>Explorando Novos Horizontes: A Importância da Tecnologia no Campo</h3>
+                <p>No cenário moderno, onde a tecnologia permeia todos os aspectos de nossas vidas, é crucial reconhecer seu papel transformador, especialmente no setor agrícola. Enquanto muitos jovens são atraídos pela tecnologia urbana e digital, é essencial destacar como a tecnologia pode revolucionar e revitalizar o campo, trazendo benefícios significativos para o futuro da agricultura e para o mundo como um todo.</p>
             </article>
-            <!-- Repetir o bloco 'article' para mais notícias ou artigos -->
+            <article>
+                <h3>Eficiência e Sustentabilidade</h3>
+                <p>Um dos principais benefícios da tecnologia no campo é a melhoria da eficiência. Equipamentos agrícolas avançados, como tratores autônomos e drones, não apenas aumentam a produtividade, mas também reduzem o uso de recursos, como água e fertilizantes, tornando a agricultura mais sustentável. Jovens interessados em preservar o meio ambiente e promover práticas agrícolas responsáveis encontrarão na tecnologia aliada poderosas ferramentas para alcançar esses objetivos.</p>
+            </article>
+            <article>
+                <h3>Inovação e Oportunidades de Carreira</h3>
+                <p>Para aqueles que buscam carreiras dinâmicas e inovadoras, a tecnologia no campo oferece um vasto campo de possibilidades. Desde a engenharia de sistemas agrícolas até o desenvolvimento de softwares especializados para gerenciamento de colheitas e análise de dados agronômicos, há uma crescente demanda por profissionais capacitados a aplicar tecnologias emergentes no setor agrícola. Além disso, startups e empresas de tecnologia estão cada vez mais investindo em soluções para agricultura inteligente, abrindo portas para jovens empreendedores que desejam fazer a diferença no campo.</p>
+            </article>
         </section>
         <aside>
-            <h2>Recursos</h2>
+            <h2>Mais informações nos links abaixo</h2>
             <ul>
-                <li><a href="#">Link para recurso 1</a></li>
-                <li><a href="#">Link para recurso 2</a></li>
-                <!-- Adicionar mais links conforme necessário -->
+                <li><a href="https://g1.globo.com/sp/bauru-marilia/especial-publicitario/jacto-agricola/noticia/2018/10/26/cenario-tecnologico-e-sucessao-familiar-atraem-jovens-de-volta-ao-campo.ghtml">Cenário tecnológico e sucessão familiar atraem jovens de volta ao campo G1</a></li>
+                <li><a href="#">   </a></li>
             </ul>
         </aside>
     </div>
-    <footer>
-        <p>&copy; 2024 Jovens na Agroindústria. Todos os direitos reservados.</p>
-    </footer>
 </body>
 </html>
